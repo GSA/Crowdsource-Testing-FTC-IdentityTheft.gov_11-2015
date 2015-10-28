@@ -29,6 +29,8 @@ This document gives some terms and insights into testing mobile applications.
 
 This folder on the Google Drive that has all the project artifacts:
 
+https://drive.google.com/open?id=0B2idn27Mp7VTMUpWU2MyM2xvV1k
+
 === Test Cycle Questionnaire ===
 
 (On the Google Drive)
